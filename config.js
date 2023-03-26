@@ -10,15 +10,15 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['27729378630']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ['27729378630']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ['27729378630']
+global.Owner = ['918770333268']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.OwnerNumber = ['918770333268']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ['918770333268']
 global.BotName = "YUKINO"
 global.packname = "YUKINO"
-global.author = "Empty-Sama"
-global.OwnerName = "Empty-sama Sir🚀🌟"
+global.author = "💫ᴄᴀꜱᴛʟᴇᴠɴɪᴀ 先輩🍁"
+global.OwnerName = "💫ᴄᴀꜱᴛʟᴇᴠɴɪᴀ 先輩🍁"
 global.BotSourceCode = "https://github.com"
-global.SupportGroupLink = "https://chat.whatsapp.com/"
+global.SupportGroupLink = "https://chat.whatsapp.com/KLVwGTVcTkh0mIvtjIKCTb"
 global.sessionName = "session"
 global.Port = "7575"
 
@@ -27,7 +27,7 @@ global.Port = "7575"
 global.prefa = [':'] 
 
 
-global.location = "South Africa"
+global.location = "India"
 global.reactmoji = "⚡"
 global.themeemoji = "✨"
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/Yukino-Bot.mp4' }
